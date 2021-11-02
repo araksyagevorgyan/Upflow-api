@@ -46,7 +46,7 @@ Here are the examples (Postman):
 
 ![image](https://user-images.githubusercontent.com/31159659/139922925-382eb5b3-cfb1-4727-8c8d-8c03d0666557.png)
 
-![image](https://user-images.githubusercontent.com/31159659/139923340-ea28f8ea-4f39-42b2-8df0-deb65c30bfcc.png)
+![image](https://user-images.githubusercontent.com/31159659/139923812-1366da75-da5e-4b75-8d82-dbd00b53360f.png)
 
 
 
