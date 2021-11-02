@@ -1,10 +1,11 @@
 # Upflow-api
 
 ## Prerequesties
-Make sure to set up all mentioned in below list beforehand as it is going to be used by the program:
+Make sure to set up all mentioned in below list before running the application as it is going to be used by the program:
 
 nodejs => Download the Node.js pre-built installer for your platform from https://nodejs.org/en/download/  
 GraphicsMagick => Download GraphicsMagick for your platform from http://www.graphicsmagick.org/download.html  
+Ghostscript => Go to https://www.ghostscript.com and download an interpreter for the PostScript® language and PDF files.  
 PostgresSQL Database => Download pgsql for your platform from https://content-www.enterprisedb.com/downloads/postgres-postgresql-downloads  
 
 ### Prerequesties for pgsql database
