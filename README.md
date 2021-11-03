@@ -2,7 +2,7 @@
 Construct a micro-service that when given an link to a pdf document: (1) stores the document in local storage and (2) generates a thumbnail for the document.
 
 ## Prerequisites
-Make sure to set up all mentioned in below list before running the application as it is going to be used by the program:
+Make sure to set up all mentioned in following list before running the application:
 
 nodejs => Download the Node.js pre-built installer for your platform from https://nodejs.org/en/download/  
 GraphicsMagick => Download GraphicsMagick for your platform from http://www.graphicsmagick.org/download.html  
@@ -30,7 +30,7 @@ Run the command from ./dist folder
 
 ## Features and Endpoints
 
-Downloads the pdf and generates all related thumbnails in ./src/downloadedPdfs folder and add data into pdf, thumbnail and pdf_thumbnail pgsql tables  
+Downloads the pdf and generates all thumbnails in ./src/downloadedPdfs folder  
 POST /pdfs  
 Request body: { "url": "string" }  
 Response body: { "id": "string" } //genereated pdf's id  
