@@ -1,18 +1,18 @@
 # Upflow-api
-Construct a micro-service that when given an link to a pdf document: (1) stores the document in local storage and (2) generates a thumbnail for the document.
+This is a micro-service, which when given an url to a pdf document: (1) stores the document in local storage and (2) generates a thumbnail for the document.
 
 ## Prerequisites
-Make sure to set up all mentioned in following list before running the application:
+Before using the service make sure to set up all the following prerequisites:
 
 nodejs => Download the Node.js pre-built installer for your platform from https://nodejs.org/en/download/  
 GraphicsMagick => Download GraphicsMagick for your platform from http://www.graphicsmagick.org/download.html  
-Ghostscript => Go to https://www.ghostscript.com and download an interpreter for the PostScript® language and PDF files.  
+Ghostscript => Download Ghostscript for your platform from https://www.ghostscript.com/releases/gsdnld.html.  
 PostgresSQL Database => Download pgsql for your platform from https://content-www.enterprisedb.com/downloads/postgres-postgresql-downloads  
 
 ### Prerequisites for pgsql database
 
-To create the database, user and tables you will need to run ./src/common/postgre-sql.scripts.sql script in pgadmin4.
-Make sure to give to the user a superuser privileges. Just right click on the apiuser-> Properties... -> go to Privileges tab and set Superuser? to YES.
+To create the database, user, and tables you will need to run ./src/common/postgre-sql.scripts.sql script in pgadmin4.
+Make sure to give to the user a superuser privileges. Use right click on the apiuser-> Properties... -> go to Privileges tab and set Superuser? to YES.
 ![image](https://user-images.githubusercontent.com/31159659/140033716-eee63a9c-78e2-409f-ad74-4283275120df.png)
 
 ## Install & Build
