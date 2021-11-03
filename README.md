@@ -1,6 +1,6 @@
 # Upflow-api
 
-## Prerequesties
+## Prerequisites
 Make sure to set up all mentioned in below list before running the application as it is going to be used by the program:
 
 nodejs => Download the Node.js pre-built installer for your platform from https://nodejs.org/en/download/  
@@ -8,7 +8,7 @@ GraphicsMagick => Download GraphicsMagick for your platform from http://www.grap
 Ghostscript => Go to https://www.ghostscript.com and download an interpreter for the PostScript® language and PDF files.  
 PostgresSQL Database => Download pgsql for your platform from https://content-www.enterprisedb.com/downloads/postgres-postgresql-downloads  
 
-### Prerequesties for pgsql database
+### Prerequisites for pgsql database
 
 To create the database, user and tables you will need to run ./src/common/postgre-sql.scripts.sql script in pgadmin4.
 Make sure to give to the user a superuser privileges. Just right click on the apiuser-> Properties... -> go to Privileges tab and set Superuser? to YES.
