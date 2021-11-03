@@ -10,6 +10,10 @@ PostgresSQL Database => Download pgsql for your platform from https://content-ww
 
 ### Prerequesties for pgsql database
 
+To create the database, user and tables you will need to run ./src/common/postgre-sql.scripts.sql script in pgadmin4.
+Make sure to give to the user a superuser privileges. Just right click on the apiuser-> Properties... -> go to Privileges tab and set Superuser? to YES.
+![image](https://user-images.githubusercontent.com/31159659/140033716-eee63a9c-78e2-409f-ad74-4283275120df.png)
+
 ## Install & Build
 Run the following commands:  
 ```bash
