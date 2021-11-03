@@ -45,6 +45,17 @@ GET /pdfs/:id
 Response body: { "id": "string", "name": "string", "url": "string", thumbnails: [ { "id": "string", "name": "string", "url": "string" } ] }  
 CURL http://localhost:3000/pdfs/:id  
 
-Here are the examples (Postman):  
-POST /pdfs  
+### Here are the examples (Postman):  
 
+### POST /pdfs  
+<image src="https://user-images.githubusercontent.com/31159659/139930209-f234f16c-a0c2-4461-bec7-41bd72da2f50.png" />
+
+<image src="https://user-images.githubusercontent.com/31159659/139923429-b29bfc51-c89c-4215-823c-1f874a7fc499.png" />
+
+### GET /pdfs  
+
+<image src="https://user-images.githubusercontent.com/31159659/140071365-47e71f67-7c11-4e90-9a70-1ac41c8ddfeb.png" />
+
+### GET /pdfs/:id  
+
+<image src="https://user-images.githubusercontent.com/31159659/140071524-f8a3a7d9-22ba-4857-979a-7cac109ea861.png" />
