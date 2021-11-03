@@ -55,5 +55,5 @@ Here are the examples (Postman):
 
 <img src="https://user-images.githubusercontent.com/31159659/140043381-08bc60f6-e9ae-45d5-b127-2e7f9bc7ac7b.png" width="800" height="600">
 
-<img src="https://user-images.githubusercontent.com/31159659/139930496-6b928b53-f56e-472d-86cd-4c72ae06a406.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/31159659/139930496-6b928b53-f56e-472d-86cd-4c72ae06a406.png" width="800" height="600">
 
