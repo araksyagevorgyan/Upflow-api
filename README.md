@@ -50,7 +50,7 @@ Here are the examples (Postman):
 ![image](https://user-images.githubusercontent.com/31159659/139930209-f234f16c-a0c2-4461-bec7-41bd72da2f50.png)
 ![image](https://user-images.githubusercontent.com/31159659/139923429-b29bfc51-c89c-4215-823c-1f874a7fc499.png)
 
-![image](https://user-images.githubusercontent.com/31159659/140042410-f9e27b9b-2427-453f-8db0-13dfd2921b21.png)
+![image](https://user-images.githubusercontent.com/31159659/140043381-08bc60f6-e9ae-45d5-b127-2e7f9bc7ac7b.png)
 
 ![image](https://user-images.githubusercontent.com/31159659/139930496-6b928b53-f56e-472d-86cd-4c72ae06a406.png)
 
