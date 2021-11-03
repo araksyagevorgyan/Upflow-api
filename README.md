@@ -30,7 +30,7 @@ Run the command from ./dist folder
 ## Features and Endpoints
 
 Downloads the pdf and generates all related thumbnails in ./src/downloadedPdfs folder and add data into pdf, thumbnail and pdf_thumbnail pgsql tables  
-POST /pdfs 
+POST /pdfs  
 Request body: { "url": "string" }  
 Response body: { "id": "string" } //genereated pdf's id  
 CURL -d '{"url":"YOUR_URL"}' -H "Content-Type: application/json" -X POST http://localhost:3000/pdfs  
