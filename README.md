@@ -53,7 +53,7 @@ Here are the examples (Postman):
 
 <img src="https://user-images.githubusercontent.com/31159659/139923429-b29bfc51-c89c-4215-823c-1f874a7fc499.png" >
 
-<img src="https://user-images.githubusercontent.com/31159659/140043381-08bc60f6-e9ae-45d5-b127-2e7f9bc7ac7b.png" >
+![image](https://user-images.githubusercontent.com/31159659/140071365-47e71f67-7c11-4e90-9a70-1ac41c8ddfeb.png)
 
-<img src="https://user-images.githubusercontent.com/31159659/139930496-6b928b53-f56e-472d-86cd-4c72ae06a406.png">
+![image](https://user-images.githubusercontent.com/31159659/140071524-f8a3a7d9-22ba-4857-979a-7cac109ea861.png)
 
