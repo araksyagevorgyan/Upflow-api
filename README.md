@@ -49,7 +49,7 @@ CURL http://localhost:3000/pdfs/:id
 
 Here are the examples (Postman):
 
-<img src="https://user-images.githubusercontent.com/31159659/139930209-f234f16c-a0c2-4461-bec7-41bd72da2f50.png" width="800" height="600">
+<img src="https://user-images.githubusercontent.com/31159659/139930209-f234f16c-a0c2-4461-bec7-41bd72da2f50.png" width="800" height="400">
 
 <img src="https://user-images.githubusercontent.com/31159659/139923429-b29bfc51-c89c-4215-823c-1f874a7fc499.png" width="800" height="600">
 
