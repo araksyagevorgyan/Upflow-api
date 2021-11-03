@@ -42,7 +42,7 @@ CURL http://localhost:3000/pdfs
 
 Returns the details for the specified pdf  
 GET /pdfs/:id  
-Response body: { "id": "string", "name": "string", "url": "string", thumbnails: [ { "thumbnailName": "string" } ] }  
+Response body: { "id": "string", "name": "string", "url": "string", thumbnails: [ { "thumbnailname": "string", "thumbnailurl": "string" } ] }  
 CURL http://localhost:3000/pdfs/:id  
 
 Here are the examples (Postman):
