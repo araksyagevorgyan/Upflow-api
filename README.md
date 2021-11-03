@@ -14,7 +14,7 @@ PostgresSQL Database => Download pgsql for your platform from https://content-ww
 To create the database, user, and tables you will need to run ./src/common/postgre-sql.scripts.sql script in pgadmin4.
 Make sure to give to the user a superuser privileges. Use right click on the apiuser-> Properties... -> go to Privileges tab and set Superuser? to YES.
 
-<img src="https://user-images.githubusercontent.com/31159659/140033716-eee63a9c-78e2-409f-ad74-4283275120df.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/31159659/140033716-eee63a9c-78e2-409f-ad74-4283275120df.png" width="505" height="400">
 
 ## Install & Build
 Run the following commands:  
@@ -49,11 +49,11 @@ CURL http://localhost:3000/pdfs/:id
 
 Here are the examples (Postman):
 
-<img src="https://user-images.githubusercontent.com/31159659/139930209-f234f16c-a0c2-4461-bec7-41bd72da2f50.png" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/31159659/139930209-f234f16c-a0c2-4461-bec7-41bd72da2f50.png" width="1100" height="341">
 
-<img src="https://user-images.githubusercontent.com/31159659/139923429-b29bfc51-c89c-4215-823c-1f874a7fc499.png" width="800" height="600">
+<img src="https://user-images.githubusercontent.com/31159659/139923429-b29bfc51-c89c-4215-823c-1f874a7fc499.png" width="1100" height="341">
 
-<img src="https://user-images.githubusercontent.com/31159659/140043381-08bc60f6-e9ae-45d5-b127-2e7f9bc7ac7b.png" width="800" height="500">
+<img src="https://user-images.githubusercontent.com/31159659/140043381-08bc60f6-e9ae-45d5-b127-2e7f9bc7ac7b.png" width="1100" height="341">
 
-<img src="https://user-images.githubusercontent.com/31159659/139930496-6b928b53-f56e-472d-86cd-4c72ae06a406.png" width="800" height="500">
+<img src="https://user-images.githubusercontent.com/31159659/139930496-6b928b53-f56e-472d-86cd-4c72ae06a406.png" width="1100" height="341">
 
