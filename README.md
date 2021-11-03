@@ -1,4 +1,5 @@
 # Upflow-api
+Construct a micro-service that when given an link to a pdf document: (1) stores the document in local storage and (2) generates a thumbnail for the document.
 
 ## Prerequisites
 Make sure to set up all mentioned in below list before running the application as it is going to be used by the program:
