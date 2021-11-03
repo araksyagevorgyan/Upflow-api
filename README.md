@@ -38,7 +38,7 @@ CURL -d '{"url":"YOUR_URL"}' -H "Content-Type: application/json" -X POST http://
 
 Returns the list of all pdfs from database  
 GET /pdfs  
-Response body: [{ "id": "string", "name": "string", "url": "string" }]  
+Response body: [{ "id": "string", "name": "string", "url": "string", thumbnails: [ { "thumbnailname": "string", "thumbnailurl": "string" } ] }]  
 CURL http://localhost:3000/pdfs  
 
 Returns the details for the specified pdf  
