@@ -1,4 +1,4 @@
-# Upflow API
+# API
 This is a micro-service, which when given an url to a pdf document: (1) stores the document in local storage and (2) generates a thumbnail for the document.
 
 ## Prerequesties
