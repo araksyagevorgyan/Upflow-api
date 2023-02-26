@@ -1,5 +1,5 @@
 # API
-This is a micro-service, which when given an url to a pdf document: (1) stores the document in local storage and (2) generates a thumbnail for the document.
+This is a service, which when given an url to a pdf document: (1) stores the document in local storage and (2) generates a thumbnail for the document.
 
 ## Prerequesties
 Before using the service make sure to set up all the following prerequisites:
